@@ -20,7 +20,7 @@ Antes de empezar, asegúrate de tener instalados los siguientes programas:
 ## Instalación y ejecución con Docker
 
 1. **Clonar el repositorio**:
-   git clone https://github.com/saalN/ecommerce.git
+   git clone https://github.com/saalN/app-ecommerce.git
    cd ecommerce
 
 2. **Levantar el proyecto en docker**:
